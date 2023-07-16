@@ -1,0 +1,17 @@
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\bin\Debug\net6.0\repositoryPattern.Application.deps.json
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\bin\Debug\net6.0\repositoryPattern.Application.runtimeconfig.json
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\bin\Debug\net6.0\repositoryPattern.Application.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\bin\Debug\net6.0\repositoryPattern.Application.pdb
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\bin\Debug\net6.0\repositoryPattern.Domain.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\bin\Debug\net6.0\repositoryPattern.Domain.pdb
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.csproj.AssemblyReference.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.AssemblyInfoInputs.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.AssemblyInfo.cs
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.csproj.CoreCompileInputs.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.csproj.CopyComplete
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\refint\repositoryPattern.Application.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.pdb
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\repositoryPattern.Application.genruntimeconfig.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\Application\obj\Debug\net6.0\ref\repositoryPattern.Application.dll

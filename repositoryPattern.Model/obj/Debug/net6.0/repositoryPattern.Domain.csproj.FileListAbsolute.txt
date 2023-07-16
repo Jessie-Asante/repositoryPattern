@@ -1,0 +1,14 @@
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\bin\Debug\net6.0\repositoryPattern.Domain.deps.json
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\bin\Debug\net6.0\repositoryPattern.Domain.runtimeconfig.json
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\bin\Debug\net6.0\repositoryPattern.Domain.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\bin\Debug\net6.0\repositoryPattern.Domain.pdb
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\refint\repositoryPattern.Domain.dll
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.pdb
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\repositoryPattern.Domain.genruntimeconfig.cache
+C:\Users\Paa Kwasi\source\repos\Pattern\repositoryPattern.Model\obj\Debug\net6.0\ref\repositoryPattern.Domain.dll
